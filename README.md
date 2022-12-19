@@ -1,1 +1,1 @@
-# ai-docker-template
+# AI Docker Template
